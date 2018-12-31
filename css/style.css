@@ -5,7 +5,7 @@ p {margin: 0;}
 html, body{
    font-family: 'Lato', sans-serif;
    font-size: 100%;
-   background:#fff; 
+   background:#fff;
 }
 body a{
 	transition:0.5s all;
@@ -405,7 +405,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 }
 .touch-left label {
 	color: #727272;
-	font-size: 17px;
+  font-size: 17px;
 	font-weight: 300;
 	margin-top: 2px;
 	font-style: italic;
@@ -522,7 +522,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 /*--start-about--*/
 .about {
 	padding: 4em 0px 2em 0px;
-}	
+}
 .about-main h3,.team-main h3,.contact-top h3,.get-main h3{
 	font-size: 2em;
 	color: #595959;
@@ -658,7 +658,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 }
 .planning {
 	width: 1139px;
-	height: 132px;	
+	height: 132px;
 	background-size: 100%;
 }
 }
@@ -674,7 +674,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 }
 .clients-top h3 {
 	font-size: 2.85em;
-}	
+}
 }
 @media (max-width:1024px){
 .about-main h3, .contact-top h3 {
@@ -1169,7 +1169,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 @media (max-width:320px){
 .footer-text img {
 	width: 11%;
-}	
+}
 .footer-text p {
 	font-size: 13px;
 	margin-bottom: 7px;
@@ -1334,7 +1334,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 }
 /*--end-media-quaries--*/
 .touch-left p{
-	font-size:12px;
+	font-size:10px;
 }
 .touch-right, .touch-right a{
 	font-size:12px;
